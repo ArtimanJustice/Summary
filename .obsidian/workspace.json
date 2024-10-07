@@ -11,8 +11,12 @@
             "id": "b024b12d40059157",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kotlin/Jetpack Compose/Composition and Lifecycle.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f90df1427df2425e",
+  "active": "b024b12d40059157",
   "lastOpenFiles": [
+    "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
+    "Kotlin/Jetpack Compose",
+    "Kotlin",
     "1"
   ]
 }
