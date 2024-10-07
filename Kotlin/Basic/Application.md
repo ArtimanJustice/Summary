@@ -1,0 +1,1 @@
+The `Application` class is the **entry point** for your app and is used to initialize libraries or global states. It acts as a **singleton** throughout the app’s lifecycle, meaning there is only one instance of it for the entire app. If you don't implement a custom `Application` class, Android will use the default `Application` class.

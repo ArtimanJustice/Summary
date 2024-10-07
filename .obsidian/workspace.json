@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Jetpack Compose/State.md",
+                "file": "Kotlin/Basic/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Jetpack Compose/State.md",
+                "file": "Kotlin/Basic/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Jetpack Compose/State.md",
+                "file": "Kotlin/Basic/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Jetpack Compose/State.md"
+                "file": "Kotlin/Basic/Context.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b024b12d40059157",
   "lastOpenFiles": [
-    "Kotlin/Basic/Syntax.md",
+    "Kotlin/Basic/Application.md",
+    "Kotlin/Basic/Context.md",
     "Kotlin/Jetpack Compose/State.md",
+    "Kotlin/Basic/Syntax.md",
     "Kotlin/Basic/Types.md",
     "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
     "Kotlin/Basic",
