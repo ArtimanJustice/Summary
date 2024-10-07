@@ -1,0 +1,1 @@
+Simple types like int, char, string - immutable
