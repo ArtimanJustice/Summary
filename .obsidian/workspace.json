@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "791dbe6dec89ee76",
+        "id": "212f0fcbef9554e0",
         "type": "tabs",
         "children": [
           {
-            "id": "b024b12d40059157",
+            "id": "17894f8258e8484c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+                "file": "Kotlin/Jetpack Compose/Phases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+                "file": "Kotlin/Jetpack Compose/Phases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+                "file": "Kotlin/Jetpack Compose/Phases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md"
+                "file": "Kotlin/Jetpack Compose/Phases.md"
               }
             }
           }
@@ -146,11 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b024b12d40059157",
+  "active": "17894f8258e8484c",
   "lastOpenFiles": [
-    "Kotlin/Jetpack Compose/State.md",
+    "derivedStateOf.png",
     "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+    "Kotlin/Jetpack Compose/State.md",
     "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
+    "Kotlin/Jetpack Compose/Phases.md",
+    "KotlinImages",
+    "Pasted image 20241013154315.png",
+    "Pasted image 20241013154312.png",
+    "KotlinImages/phases.png",
+    "1.png",
     "Kotlin/Basic/Application.md",
     "Kotlin/Basic/Context.md",
     "Kotlin/Basic/Syntax.md",
