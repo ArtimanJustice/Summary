@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Basic/Syntax.md",
+                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kotlin/Basic/Syntax.md",
+                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kotlin/Basic/Syntax.md",
+                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kotlin/Basic/Syntax.md"
+                "file": "Kotlin/Jetpack Compose/Serialize and Parcelize.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "b024b12d40059157",
   "lastOpenFiles": [
+    "Kotlin/Jetpack Compose/State.md",
+    "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+    "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
     "Kotlin/Basic/Application.md",
     "Kotlin/Basic/Context.md",
     "Kotlin/Basic/Syntax.md",
     "Kotlin/Basic/Types.md",
-    "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
-    "Kotlin/Jetpack Compose/State.md",
     "Kotlin/Basic",
     "Kotlin/Jetpack Compose",
     "Kotlin",
