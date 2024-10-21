@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Algorithms & Data Structures/Sliding Window.md",
+                "file": "Kotlin/Algorithms & Data Structures/Mutable Map Of.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Mutable Map Of"
             }
           }
         ]
@@ -164,18 +164,18 @@
   },
   "active": "aa87601fe780423b",
   "lastOpenFiles": [
-    "Kotlin/Algorithms & Data Structures/Mutable Map Of.md",
-    "KotlinImages/phases.png",
-    "KotlinImages/derivedStateOf.png",
-    "Kotlin/Jetpack Compose/Phases.md",
     "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
-    "Kotlin/Jetpack Compose/State.md",
-    "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
-    "Kotlin/Basic/Types.md",
+    "Kotlin/Jetpack Compose/Phases.md",
+    "Kotlin/Algorithms & Data Structures/Mutable Map Of.md",
+    "Kotlin/Algorithms & Data Structures/Sliding Window.md",
     "Kotlin/Basic/Syntax.md",
     "Kotlin/Basic/Context.md",
     "Kotlin/Basic/Application.md",
-    "Kotlin/Algorithms & Data Structures/Sliding Window.md",
+    "KotlinImages/phases.png",
+    "KotlinImages/derivedStateOf.png",
+    "Kotlin/Jetpack Compose/State.md",
+    "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+    "Kotlin/Basic/Types.md",
     "Kotlin/Algorithms & Data Structures",
     "KotlinImages",
     "Pasted image 20241013154315.png",
