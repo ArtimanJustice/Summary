@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7f82e9e760ccbe65",
+        "id": "238d0e44cb5226d9",
         "type": "tabs",
         "children": [
           {
-            "id": "aa87601fe780423b",
+            "id": "7f1b8baa161ba811",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Algorithms & Data Structures/Mutable Map Of.md",
+                "file": "Kotlin/Algorithms & Data Structures/Sliding Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutable Map Of"
+              "title": "Sliding Window"
+            }
+          },
+          {
+            "id": "0548aa14b3aff043",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "KotlinImages/Vector & Raster graphics.png"
+              },
+              "icon": "lucide-image",
+              "title": "Vector & Raster graphics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,20 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa87601fe780423b",
+  "active": "0548aa14b3aff043",
   "lastOpenFiles": [
-    "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
-    "Kotlin/Jetpack Compose/Phases.md",
-    "Kotlin/Algorithms & Data Structures/Mutable Map Of.md",
-    "Kotlin/Algorithms & Data Structures/Sliding Window.md",
-    "Kotlin/Basic/Syntax.md",
-    "Kotlin/Basic/Context.md",
-    "Kotlin/Basic/Application.md",
     "KotlinImages/phases.png",
     "KotlinImages/derivedStateOf.png",
-    "Kotlin/Jetpack Compose/State.md",
-    "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+    "Kotlin/Jetpack Compose/Composition and Lifecycle.md",
+    "Kotlin/Basic/Images.md",
+    "Kotlin/Basic/Syntax.md",
+    "KotlinImages/Vector & Raster graphics.png",
+    "Kotlin/Algorithms & Data Structures/Mutable Map Of.md",
+    "Kotlin/Algorithms & Data Structures/Sliding Window.md",
+    "Kotlin/Basic/Application.md",
+    "Kotlin/Basic/Context.md",
     "Kotlin/Basic/Types.md",
+    "Kotlin/Jetpack Compose/Serialize and Parcelize.md",
+    "Kotlin/Jetpack Compose/Phases.md",
+    "Kotlin/Jetpack Compose/State.md",
+    "3 phases of rendering.md",
     "Kotlin/Algorithms & Data Structures",
     "KotlinImages",
     "Pasted image 20241013154315.png",

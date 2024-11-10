@@ -1,0 +1,1 @@
+![[Vector & Raster graphics.png]]
