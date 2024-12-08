@@ -1,0 +1,1 @@
+enableEdgeToEdge() -> screen will be from edge to edge and will be on system bars
