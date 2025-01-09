@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms & Data Structures/MutableMap.md",
+                "file": "Algorithms & Data Structures/Dynamic Programming (DP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MutableMap"
+              "title": "Dynamic Programming (DP)"
             }
           }
         ]
@@ -162,14 +162,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f90df1427df2425e",
+  "active": "348c7cb0f1d5f706",
   "lastOpenFiles": [
+    "Algorithms & Data Structures/Sliding Window.md",
+    "Algorithms & Data Structures/Two Pointer Aproach.md",
+    "Algorithms & Data Structures/ZigZag.md",
+    "Kotlin/Jetpack Compose/Navigation/Base.md",
+    "Kotlin/Basic/Annotation.md",
+    "Kotlin/Jetpack Compose/Navigation",
+    "Kotlin/Basic/Syntax.md",
+    "Kotlin/Basic/Application.md",
+    "Kotlin/Jetpack Compose/State/State.md",
+    "Kotlin/Jetpack Compose/Basics/Annotations.md",
+    "Kotlin/Basic/Kotlin Delegated Property.md",
+    "Kotlin/Jetpack Compose/State/Serialize and Parcelize.md",
+    "Kotlin/Jetpack Compose/Side Effects/Instruments.md",
+    "Kotlin/Jetpack Compose/Side Effects/Base.md",
+    "Kotlin/Jetpack Compose/Lists/Lazy Column.md",
+    "Kotlin/Jetpack Compose/Lists/Composition Local.md",
+    "Kotlin/Jetpack Compose/Basics/Phases.md",
+    "Kotlin/Jetpack Compose/Basics/Composition and Lifecycle.md",
+    "Kotlin/Security/BuildConfig.md",
+    "Kotlin/Security/Local Properties.md",
+    "Kotlin/Gradle/Kapt.md",
+    "Algorithms & Data Structures/MutableMap.md",
+    "Kotlin/Security",
     "Algorithms & Data Structures/Dynamic Programming (DP).md",
     "Algorithms & Data Structures/Expansion Around The Centre.md",
-    "Algorithms & Data Structures/MutableMap.md",
-    "Algorithms & Data Structures/Sliding Window.md",
-    "Algorithms & Data Structures/ZigZag.md",
-    "Algorithms & Data Structures/Two Pointer Aproach.md",
     "TwoPointerAproach.jpg",
     "Zigzag.jpg",
     "AlgorithmsImages/fibonachitree.png",
@@ -184,30 +203,12 @@
     "AlgorithmsImages",
     "Math/Формулы сокращенного умножения.md",
     "Math/Основные свойства степеней с дробным показателем.md",
-    "Kotlin/Xml/RecyclerView.md",
-    "Kotlin/Jetpack Compose/Ui/Scaffold.md",
-    "Kotlin/Jetpack Compose/Ui/Keyboards.md",
-    "Kotlin/Jetpack Compose/Ui/Constraint Layout.md",
-    "Kotlin/Jetpack Compose/State/State.md",
-    "Kotlin/Jetpack Compose/State/Serialize and Parcelize.md",
-    "Kotlin/Jetpack Compose/Side Effects/Instruments.md",
-    "Kotlin/Jetpack Compose/Side Effects/Base.md",
-    "Kotlin/Jetpack Compose/Lists/Composition Local.md",
-    "Kotlin/Jetpack Compose/Lists/Lazy Column.md",
-    "Kotlin/Jetpack Compose/Basics/Composition and Lifecycle.md",
-    "Kotlin/Jetpack Compose/Basics/Phases.md",
-    "Kotlin/Basic/Syntax.md",
-    "Kotlin/Basic/Types.md",
-    "Kotlin/Basic/Application.md",
-    "Kotlin/Basic/Context.md",
     "MathImages",
     "Math",
     "Kotlin/Jetpack Compose/Side Effects",
     "Kotlin/Jetpack Compose/Basics",
     "Kotlin/Jetpack Compose/Ui",
     "Kotlin/Gradle",
-    "Kotlin/Jetpack Compose/State",
-    "Kotlin/Jetpack Compose/Lifecycle",
-    "Kotlin/Jetpack Compose/Syntax"
+    "Kotlin/Jetpack Compose/State"
   ]
 }
