@@ -1,10 +1,10 @@
-**Context** acts as a bridge that allows you to access and interact with the Android application environment. It provides a way to obtain resources, interact with app components, and access system services within the app. Using `Context`, you can also retrieve information about the device on which your app is running, such as screen size, time, and even details about other installed apps. 
+**Context** — это мост, который позволяет получать доступ к окружению Android-приложения и взаимодействовать с ним. Он предоставляет способ получать ресурсы, взаимодействовать с компонентами приложения и использовать системные службы внутри приложения. С помощью `Context` можно также получить информацию об устройстве, на котором запущено приложение, например, о размере экрана, времени и даже о других установленных приложениях.
+#### **Типы Context:**
+1. **Component Context:**  
+    Используется компонентами, такими как **Activity** и **Service**, для взаимодействия с окружающей средой.
+2. **Context Wrappers:**  
+    **ContextWrapper** предоставляет способ модификации или расширения функциональности другого контекста. Например, с помощью `ContextThemeWrapper` можно изменять тему приложения.
+3. **Application Context:**  
+    Связан с объектом **Application** и используется на протяжении всего жизненного цикла приложения. Он идеален для сценариев, когда нужен глобальный контекст, не зависящий от конкретного компонента (например, Activity или Service).
 
-#### **Context Types:**
-
-1. **Component Context:**
-    - Used by components such as **Activity** and **Service** to interact with their surrounding environment.
-2. **Context Wrappers:**
-    - **ContextWrapper** provides a way to modify or extend the functionality of another context (e.g., `ContextThemeWrapper` to change themes).
-3. **Application Context:**
-    - Associated with the **Application** and is used across the entire app lifecycle. It is best for scenarios where you need a global context that does not depend on a specific component (like an `Activity` or `Service`).
+![[context.png]]

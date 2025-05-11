@@ -1,4 +1,4 @@
-1.  Composition Phase - what should be drawn? By building the data tree.
+1.  [[Composition and Lifecycle|Composition]] Phase - what should be drawn? By building the data tree.
 2.  Layout Phase - where components should be placed and how much space they should occupy. Compose aims to perform the layout phase in a single pass whenever possible. 
 ![[phases.png]]
 3. Drawing Phase - how it should be drawn? Draw components within their bounds. 
